@@ -1,4 +1,4 @@
-package me.yonkum.springapplicationcontext;
+package me.yonkum.springcore;
 
 public class BookService {
 
